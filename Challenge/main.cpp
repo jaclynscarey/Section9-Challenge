@@ -82,14 +82,14 @@ int main() {
 	
 	
 	cout << "---------------------------------" << endl;
-	cout << "P - Print numbers" << endl;
-	cout << "A - Add a number" << endl;
-	cout << "M - Display mean of the numbers" << endl;
-	cout << "S - Display the smallest number" << endl;
-	cout << "L - Display the largest number" << endl;
-	cout << "Q - Quit" << endl;
+	cout << "P - Print numbers " << endl;
+	cout << "A - Add a number " << endl;
+	cout << "M - Display mean of the numbers " << endl;
+	cout << "S - Display the smallest number " << endl;
+	cout << "L - Display the largest number " << endl;
+	cout << "Q - Quit " << endl;
 	cout << "---------------------------------" << endl << endl;
-	cout << "Enter your selection: ";
+	cout << "Enter your selection:  ";
 	cin >> selection;
 	
 	
